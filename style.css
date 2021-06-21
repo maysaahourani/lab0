@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+body {
+    width: 900 px ;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body header img {
+    float: left;
+}
+
+/* body header h2 {
+    border: 0px 20px;
+    padding: 0px 10px;
+} */
+
+main div  {
+    background-image:url("list-bg.png")
+}
+
+body header section {
+    float: right;
+}
+
+button {
+    float: right;
+}
+/* h3 {
+    float: left;
+} */
+
+footer {
+    text-align: center;
+
+}
+footer img {
+    align-content : center;
+
+}
+
+hr {
+    height: 10px;
+    background-image: url(img/hr-img.png);
+}
+
+main section img {
+    float: right;
+}
